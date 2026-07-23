@@ -1,0 +1,17 @@
+{
+  "name": "after-the-corridor-report",
+  "version": "1.0.0",
+  "description": "After the Corridor — Ethical Tech CoLab research report",
+  "scripts": {
+    "build": "node scripts/build-site.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "markdown-it": "^14.3.0",
+    "markdown-it-anchor": "^9.2.1",
+    "markdown-it-footnote": "^4.0.0"
+  },
+  "private": true
+}
