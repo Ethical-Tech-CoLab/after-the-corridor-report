@@ -14,16 +14,27 @@ This report carries the single biggest credibility exposure across the CoLab
 portfolio, because §05 asserts development-economics figures as settled evidence
 the model merely "formalizes," without matching citations.
 
-### 1. The §05 development-economics figures read as bare assertions — PARTLY FIXED 2026-07-27
+### 1. The §05 development-economics figures — FIXED 2026-07-27 (verified against sources)
 
-Correction: the figures ARE cited in this repo — footnotes `[^30]` (UNHCR
-self-reliance blog) and `[^31]` (World Bank "The Costs Come Before the Benefits"
-2024 + WEF). The problem was on the site copy, where the prose asserted them
-without inline attribution. Fixed 2026-07-27 in `after-the-corridor.ts`: the
-Uganda/Kakuma/Colombia bullets now attribute to "World Bank analysis." STILL
-OPEN here: `[^30]` is a bare UNHCR blog with no figure on the page, so the
-$3.2B→$900M and $56–62B/$41B claims lack a verifiable primary source — replace
-with the specific UNHCR document and page, or downgrade to attributed estimates.
+Each figure was checked against its primary source and the copy corrected in
+both `REPORT.md` and the site `after-the-corridor.ts`:
+
+- **$3.2B → $900M** (`[^30]`): confirmed verbatim by the UNHCR self-reliance
+  blog. Kept.
+- **The "$56–62B / $41B" benchmark: corrected.** The World Bank–UNHCR figure is
+  *almost US$62 billion* to bring every refugee in low/middle-income hosts to
+  the global poverty line in a no-income scenario; refugees' own earnings
+  already cover ~US$40 billion, leaving ~US$22 billion. Rewritten to state that,
+  and re-cited to `[^29]` (World Bank, *Making Refugee Self-Reliance Work*)
+  instead of the `[^30]` blog. The old "$56 billion" low end was unsupported.
+- **Uganda $150 / $225M** (`[^31]`): confirmed verbatim by the World Bank. Kept.
+- **Kakuma +3.4% GRP**: confirmed, but re-sourced — the figure is from UNHCR/
+  World Bank *"Yes" in My Backyard? … Kakuma, Kenya* (2016), now added to `[^31]`.
+- **Colombia**: dropped the unsupported "500,000" headcount and the misassigned
+  "minimal impact on host employment"; now states ~30% income and ~10pp formal
+  employment gains for beneficiaries, with little host displacement (Ibáñez et
+  al., via `[^31]`).
+
 Original write-up below.
 
 
