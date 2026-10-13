@@ -474,7 +474,7 @@ The through-line from the evacuation corridor to the camp is a single claim, tes
 
 [^7]: Fourth Geneva Convention, art. 49; Protocol I, arts. 57 to 58; Protocol II, art. 17; Rome Statute of the International Criminal Court, art. 8.
 
-[^8]: UN Office on Genocide Prevention and the Responsibility to Protect, <https://www.un.org/en/genocideprevention/about-responsibility-to-protect.shtml>; Roberta Cohen, "Reconciling the Responsibility to Protect with IDP Protection," Brookings Institution (2010).
+[^8]: UN Office on Genocide Prevention and the Responsibility to Protect, <https://www.un.org/en/genocide-prevention/responsibility-protect/about>; Roberta Cohen, "Reconciling the Responsibility to Protect with IDP Protection," Brookings Institution (2010).
 
 [^9]: Volker Türk and Rebecca Dowd, "Protection Gaps," in *The Oxford Handbook of Refugee and Forced Migration Studies* (Oxford UP, 2014), pp. 278 to 285; Cantero, "Artificial Intelligence and Civilian Protection."
 

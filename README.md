@@ -19,7 +19,7 @@ It also names the one thing the lab refuses to build, biometric identity for dis
 | | |
 | --- | --- |
 | **6** | built instruments: five fielded evacuation prototypes and a completed forced-labour risk index, all open source |
-| **53,000+** | people now at Dzaleka, a camp built in 1994 for 10,000 to 12,000 |
+| **53,000 to 60,000** | people now at Dzaleka, a camp built in 1994 for 10,000 to 12,000 |
 | **90%** | cut to UNHCR's Malawi budget, from about US$8 million to about US$1 million |
 | **0** | biometric identity systems, recorded as a versioned decision pattern (DDC-0001) rather than left implicit |
 
